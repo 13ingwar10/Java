@@ -9,6 +9,7 @@ public class Main {
         solveSecondTask();
         solveThirdTask();
         solveFourthTask();
+
     }
 
     public static void solveFirstTask() {
